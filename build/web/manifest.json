@@ -1,6 +1,6 @@
 {
-    "name": "myacs",
-    "short_name": "myacs",
+    "name": "IOCL ACS",
+    "short_name": "IOCL ACS",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -103,6 +103,7 @@ lib/
 ├── main.dart                     # App entry point
 └── theme_provider.dart           # Theme logic and settings
 
+
 ⚠️ Some unused/legacy files (like .oldchatbot_page.dart) might need cleanup.
 
 🛠 Common Commands
